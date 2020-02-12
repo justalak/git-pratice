@@ -25,11 +25,6 @@ Things you may want to cover:
 
 #master 22
 
-<<<<<<< HEAD
-=======
-=======
-#test conflict
->>>>>>> Hoàng
 
 t
 >>>>>>> c99fe476159367f36370568cafa6222d43ad2d17
